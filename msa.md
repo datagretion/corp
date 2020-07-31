@@ -56,7 +56,7 @@ The Client shall promptly review all Deliverables, and must notify Datagretion o
 
 ## Datagretion Rights in Deliverables
 
-**Datagretion IP.** Client acknowledges that the methodologies, strategies, designs, templates, software (and any modifications thereto), pre-existing IP of Datagretion (and any modifications thereto), general knowledge, skills, experience, ideas, concepts, know-how and techniques used by Datagretion in the course of performing services hereunder are all part of Fishtown Analytics’ proprietary IP, and are owned exclusively by Datagretion.
+**Datagretion IP.** Client acknowledges that the methodologies, strategies, designs, templates, software (and any modifications thereto), pre-existing IP of Datagretion (and any modifications thereto), general knowledge, skills, experience, ideas, concepts, know-how and techniques used by Datagretion in the course of performing services hereunder are all part of Datagretion’ proprietary IP, and are owned exclusively by Datagretion.
 
 **Open Source Analysis.** Upon written permission by Client, Datagretion may publish non-confidential components of Final Deliverables under an open source license on Datagretion’s websites and Github repositories for the purposes of promotion of Datagretion.
 
